@@ -1,4 +1,4 @@
-# CLO-Praktikum-Web
+# Website Basic Learning
 
 # GIT INSTALLATION
 ![image](https://user-images.githubusercontent.com/101171443/209553180-0fbaee90-c284-4a3a-b803-58e72906a3e9.png)
